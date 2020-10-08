@@ -10,6 +10,7 @@
 
 N: B: at some point either (essentially in between number 3&4 or at the end) we have to active the virtualenvironment from the file menu.
               file/setting/project Interpreter/ if you find the python for your root folder then click Ok, 
+              if not found then "SHOW ALL" from "Show all" select the python version with virtual Environment
               otherwise click on 'plus' button and from OK you will find automatically python existing version for your root folder.
 
 ## install packages 
