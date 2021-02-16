@@ -19,3 +19,13 @@ N: B: at some point either (essentially in between number 3&4 or at the end) we 
 3. pip install -r requirements.txt
 
 
+########################          git krank
+1. Double click Dev brnach (bikash branch)
+2. pull all 
+3. come back to Ran Branch 
+4. click again Dev/Bkash branch (single click)
+5. Merge Dev/Bikash ino Rana_branch
+
+        ############## 
+        -       view changes
+        -       stage all changes 
