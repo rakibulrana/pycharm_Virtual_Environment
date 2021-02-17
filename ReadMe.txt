@@ -29,3 +29,24 @@ N: B: at some point either (essentially in between number 3&4 or at the end) we 
         ############## 
         -       view changes
         -       stage all changes 
+   #################################### git ##################dustin
+   
+   Git commands from Dustin to push your dev code, pull the recent cheanges from the DEV and finally push again to make everything up to date
+
+- git branch
+- git commit 
+- git add -A .
+- git commit -m 'Type Your commit Text'
+- git push
+ 
+- git checkout dev
+	(Switched to branch dev)
+- git pull origin dev
+- git checkout inti_test
+	(Switch to branch 'inti_test')
+- git merge dev
+	(Now I was in 'inti_test' branch, and the 'dev' branch is merging with the 'inti_test' branch)
+
+- git add -A .
+- git commit -m 'merge with dev'
+- git push
