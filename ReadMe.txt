@@ -32,7 +32,16 @@ N: B: at some point either (essentially in between number 3&4 or at the end) we 
    #################################### git ##################dustin
    
    Git commands from Dustin to push your dev code, pull the recent cheanges from the DEV and finally push again to make everything up to date
-
+1. Go to the git repo and create a new repo. give the name
+2. check the README option to initialize a file with a default ReadMe file.
+3. create a local version of the git repo
+4. git clone [http link of the git we've created on the web]
+5. change something on the ReadME file and prepare to push that to the master branch
+5. git add .
+6. git commit -m "Comment of your changes"
+7. git push 
+8. or git push origin master
+__________________  
 - git branch
 - git commit 
 - git add -A .
